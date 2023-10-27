@@ -1,0 +1,14 @@
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\lab4_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\lab4_task2.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\lab4_task2.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\lab4_task2.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\bin\Debug\net6.0\lab4_task2.exe
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\bin\Debug\net6.0\lab4_task2.deps.json
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\bin\Debug\net6.0\lab4_task2.runtimeconfig.json
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\bin\Debug\net6.0\lab4_task2.dll
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\bin\Debug\net6.0\lab4_task2.pdb
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\lab4_task2.dll
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\refint\lab4_task2.dll
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\lab4_task2.pdb
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\lab4_task2.genruntimeconfig.cache
+C:\Users\Dimon\source\repos\lab4_task2\lab4_task2\obj\Debug\net6.0\ref\lab4_task2.dll
